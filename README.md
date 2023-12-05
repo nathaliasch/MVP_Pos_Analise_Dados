@@ -10,12 +10,20 @@ Este é um problema de aprendizado supervisionado, onde possuímos dados rotulad
 
 Trata-se de um conjunto de dados com 180 instâncias que contém 9 atributos. São eles:
 
-Product - o número do modelo da esteira.
-Age - a idade em anos do cliente. É uma variável numérica.
-Gender - indica o gênero do cliente (Male = masculino, Female = feminino).
-Education - em número de anos da escolaridade do cliente.
-MaritalStatus - o estado civil do cliente.
-Usage - a média de vezes que o cliente deseja usar a esteira por semana.
-Fitness - pontuação de condicionamento físico autoavaliado do cliente (5 - muito em forma, 1 - pouco em forma)
-Income - a renda do cliente.
-Miles - quantidade de milhas que o cliente espera correr.
+  * Product - o número do modelo da esteira.
+ 
+  * Age - a idade em anos do cliente. É uma variável numérica.
+    
+  * Gender - indica o gênero do cliente (Male = masculino, Female = feminino).
+    
+  * Education - em número de anos da escolaridade do cliente.
+
+  * MaritalStatus - o estado civil do cliente.
+
+  * Usage - a média de vezes que o cliente deseja usar a esteira por semana.
+
+  * Fitness - pontuação de condicionamento físico autoavaliado do cliente (5 - muito em forma, 1 - pouco em forma).
+  
+  * Income - a renda do cliente.
+
+  * Miles - quantidade de milhas que o cliente espera correr.
